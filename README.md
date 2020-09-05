@@ -1,4 +1,4 @@
-# coursera
+# How to share data with a statistician
 https://github.com/jtleek/datasharing.git
 
 How to share data with a statistician
